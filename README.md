@@ -1,6 +1,4 @@
-# reddit
-
-## RedditScraper.py
+#### RedditScraper.py
 
 Pulls a listing of posts from https://pushshift.io/reddit/ and then checks each of those posts on reddit and pulls the current stats.
 
